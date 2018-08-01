@@ -1,7 +1,7 @@
 # JavaScript_Set11_Method_Practice
 
 For the exercises below only create the function call in the main, the function declaration, and any returns if necessary. If no return is necessary enter NONE
-### Example 1
+### Example 26
 Create a function that’s passed three numbers and returns the sum
 
 * ```newFunction(number1, number2, number3);```
@@ -14,7 +14,7 @@ Function Return
 
 * ```return (num1 + num2 + num3)```
 
-### Example 2
+### Example 27
 Create a function that’s passed four names and returns an array of those names
 
 Main
